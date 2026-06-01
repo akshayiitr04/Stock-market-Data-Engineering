@@ -12,7 +12,7 @@ BUCKET = "bronze-transactions"
 LOCAL_DIR = "/tmp/minio_downloads"  # use absolute path for Airflow
 
 SNOWFLAKE_USER = "fxiitanAV"
-SNOWFLAKE_PASSWORD = "Btfp6chceHTMy8C"
+SNOWFLAKE_PASSWORD = "pswd"
 SNOWFLAKE_ACCOUNT = "sw18999.ap-southeast-7.aws"
 SNOWFLAKE_WAREHOUSE = "COMPUTE_WH"
 SNOWFLAKE_DB = "STOCKS_MDS"
