@@ -25,10 +25,10 @@ This project solves the challenge by:
 ## Architecture
 
 ```text
-Finhub.io Stock API
+Finnhub Stock API
     │
     ▼
-Python Ingestion Layer
+ Kafka
     │
     ▼
 Minio
@@ -48,7 +48,6 @@ Snowflake Analytics Layer
     ▼
 Power BI Dashboard
 ```
-
 ---
 
 ## Tech Stack
